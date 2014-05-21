@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4943
+
+Grab the latest dev version from github: https://github.com/amal-khailtash/vim-ralf-syntax.git
+
+### References
+
+* [VMM Register Abstraction Layer User Guide - Mar 2014](https://solvnet.synopsys.com/dow_retrieve/I-2014.03/VCS/ral_user_guide.pdf)
+* [UVM Register Abstraction Layer User Guide - Mar 2014](https://solvnet.synopsys.com/dow_retrieve/I-2014.03/VCS/uvm_ralgen_ug.pdf)
+* [VMM Register Abstraction Layer User Guide - Jul 2011](http://vmmcentral.org/pdfs/ral_user_guide.pdf)
+* [VMM Primer - Using the Register Abstraction Layer - Mar 2008](http://vmmcentral.org/pdfs/using_register_abstract_layer.pdf)
